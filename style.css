@@ -23,3 +23,28 @@ nav{
     height: 40px;
     box-sizing: border-box;
 }
+h1{
+    /* color: darkmagenta; */
+    /* color:#fff; */
+    /* color: rgb(78, 125, 59); */
+    /* color: rgba(255,22,5,0.175); */
+    color: hsl(130, 61%, 40%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-color: rgb(4, 0, 255);
+    /* text-decoration-style: wavy; */
+    text-decoration-thickness: 4px;
+    /* text-indent: 45px; */
+    text-overflow: ellipsis;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lorem{
+    border: 2px solid red;
+    width: 145px;
+    word-break: break-all;
+    /* text-overflow: ellipsis;
+    overflow: hidden; */
+}
