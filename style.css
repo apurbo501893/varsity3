@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: red;
+}
+.box{
+
+    background-color:pink;
+}
+.box2{
+    color:yellow;
+    padding: 10px;
+    border:2px solid blueviolet;
+    height: 40px;
+    box-sizing: border-box;
+}
+.box1{
+    color:goldenrod;
+    padding: 10px;
+    border:2px solid blueviolet;
+    height: 40px;
+    box-sizing: border-box;
+}
